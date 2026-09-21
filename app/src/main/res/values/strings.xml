@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrvaAplikacija</string>
+
+    <string name="naslov">Mobile application!</string>
+    <string name="text2">Hello world!</string>
+    <string name="gumb">Log in</string>
+    <string name="pogoj">Strinjam se s pogoji uporabe</string>>
+    <string name="male">male</string>
+    <string name="female">female</string>
+</resources>
