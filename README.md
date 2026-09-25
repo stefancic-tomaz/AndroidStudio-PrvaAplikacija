@@ -19,10 +19,10 @@ Aplikacija vsebuje:
 
 Besedila aplikacije so shranjena v `strings.xml`.
 
-##Toast in snackbar
-#Toast
+## Toast in snackbar
+# Toast
 <img width="403" height="50" alt="Posnetek zaslona 2026-09-25 081722" src="https://github.com/user-attachments/assets/10225d56-082a-44d5-be33-b27aaf75e745" />
-#Snackbar
+# Snackbar
 <img width="296" height="52" alt="Posnetek zaslona 2026-09-25 081802" src="https://github.com/user-attachments/assets/90001767-f36f-4e29-90ee-1003e8518eeb" />
 
 
