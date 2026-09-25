@@ -3,6 +3,7 @@
 Prva aplikacija, ki sem jo izdelal v Android Studiu pri predmetu Razvoj mobilnih aplikacij.
 
 Namen naloge je bil spoznati osnovno strukturo Android projekta, delo z uporabniškim vmesnikom in dodajanje preprostih funkcionalnosti.
+<img width="403" height="845" alt="Posnetek zaslona 2026-09-25 081743" src="https://github.com/user-attachments/assets/c0553e68-4826-41a4-a8dd-8e0cb85d70ce" />
 
 ## Funkcionalnosti
 
